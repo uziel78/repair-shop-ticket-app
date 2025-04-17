@@ -35,7 +35,8 @@
   --color-primary: var(--primary);
   --color-popover-foreground: var(--popover-foreground);
   --color-popover: var(--popover);
-  --background-home-img: url('/images/home-img.jpg'); /* Add background image variable */
+  --bg-image-light: url('/images/home-img.jpg');
+  --bg-image-dark: url('/images/dark-home-img.jpg');
 }
 
 :root {
@@ -119,10 +120,6 @@
 }
 
 @layer utilities {
-  .bg-home-img {
-    background-image: var(--background-home-img); /* Use the custom property */
-  }
-
   @keyframes slide {
     from {
       transform: translateX(100%);
