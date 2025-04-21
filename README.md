@@ -28,4 +28,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 - Shadcn w Tailwind v4
 - Turbopack
 - Kinde (for authentication)
+- Neon
+- PostgreSQL
+- Drizzle ORM
 -
