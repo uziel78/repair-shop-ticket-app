@@ -34,3 +34,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 - Zod
 - React Hook Form
 -
+
+- This is a course from youtube, found here: https://github.com/gitdagray/nextjs-full-stack-project/blob/lesson-7/package.json
+
+- Currently paused around the 24min mark of this video: https://www.youtube.com/watch?v=VueEcnP9LZg&list=PL0Zuz27SZ-6PCLz7VMP2QQdeKa83rshe5&index=38
